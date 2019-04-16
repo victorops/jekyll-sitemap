@@ -1,5 +1,7 @@
 # Jekyll Sitemap Generator Plugin
 
+# This is plugin is a fork of jekyll-sitemap, it has been modified to  be used in victorops.com only.
+
 *Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site*
 
 [![Build Status](https://travis-ci.org/jekyll/jekyll-sitemap.svg?branch=master)](https://travis-ci.org/jekyll/jekyll-sitemap)
